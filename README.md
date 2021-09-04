@@ -1,1 +1,1 @@
-# BigData_Competition
+# 국내 빅데이터 분석 공모전
